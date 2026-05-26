@@ -1,0 +1,4 @@
+# ninja log v5
+1	10281	1765217487099509976	/data/zdw/zdw_data/newRAHT/myMesonGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	c499927299186572
+0	15100	1765217491912480761	/data/zdw/zdw_data/newRAHT/myMesonGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	bdf83d3387f1248
+1	36988	1765217513805345570	/data/zdw/zdw_data/newRAHT/myMesonGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	7cfb54d34651b3dc
