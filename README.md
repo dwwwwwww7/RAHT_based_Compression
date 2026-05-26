@@ -44,6 +44,7 @@ P_{c,b}(q)=
 $$
 
 Where, $m_{c,b}$ denotes the center symbol, $\pi_{c,b}$ denotes the additional probability mass assigned to the center symbol, and $P_L$ denotes the discretized Laplace probability.
+
 $$
 \hat{R}=
 \sum_{c=1}^{55}\sum_{b=1}^{B}\sum_n
@@ -123,7 +124,7 @@ $$
 
 ## 3. Experimental Setup
 
-For efficient parameter tuning, We first used the ***room*** scene from Mip-NeRF 360 to select parameters, and then conducted preliminary evaluations on the *room* sequence and the **Tanks & Temples **dataset. The comparison is made against results obtained using the PCS25 code under the same pretraining and fine-tuning pipeline.
+For efficient parameter tuning, We first used the ***room*** scene from Mip-NeRF 360 to select parameters, and then conducted preliminary evaluations on the *room* sequence and the **Tanks & Temples**dataset. The comparison is made against results obtained using the PCS25 code under the same pretraining and fine-tuning pipeline.
 
 The current setup is as follows:
 
